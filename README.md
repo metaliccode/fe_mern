@@ -1,4 +1,4 @@
-# Front End MERN Stack menggunakan Node Js & Express Js 
+# Front End MERN Stack menggunakan React JS
 Untuk Pelatihan Diskominfo Jawa Barat mengenai Materi Fullstack MERN pada tanggal 12 - 14 Oktober 2022<br>
 Link Backend : https://github.com/metaliccode/be_mern
 
