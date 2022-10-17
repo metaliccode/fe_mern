@@ -1,0 +1,52 @@
+cara install :
+- node js
+- npm
+- npx create-react-app my-app
+- npm i -g create-react-app
+- create-react-app my-app
+- npm i -g yarn
+cara menjalankan React Js:
+- cd my-app
+- npm start / yarn start
+
+Extensi yang dibutuhkan untuk react Js:
+- ES7+ React/Redux/React-Native snippets
+- Simple React Snippets
+- Babel ES6/ES7
+- Prettier - Code formatter
+- Babel Javascript
+- Bootstrap 5 Quick Snippets
+- color highlight
+- css peek
+- html to jsx
+- IntelliSense for CSS class names in HTML
+- Javascript (ES6) code snippets
+- JSX HTML
+- vscode-styled-components
+- Eslint
+
+$token = "eyJhbGciOiJSUzI1NiIsInR5cCIgOi";
+
+$response = Http::withHeaders([
+    'AUTHORIZATION' => 'Bearer ' . $token,
+    'Content-Type' => 'application/json'
+])->get('http://127.0.0.1:8080/admin/realms/heroes/users', [
+    name => 'admin'
+    fasdfasdf => 'admin'
+]);
+
+cara install Bootstrap :
+- cdn : https://getbootstrap.com/docs/5.0/getting-started/introduction/
+npm i bootstrap
+
+cara mebuat navigasi di react :
+- npm i react-router-dom
+- yarn add react-router-dom
+
+untuk pemnggilan api menggunakan axios :
+npm i axios
+https://github.com/axios/axios
+https://axios-http.com/
+
+cara install sweet alert :
+npm i sweetalert2 --force
